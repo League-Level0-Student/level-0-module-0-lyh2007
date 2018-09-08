@@ -13,16 +13,4 @@ public class RobotGraffiti {
 
 	}
 
-}Knock knock.
-
-Who’
-
-s there?
-
-Cantaloupe!
-
-Cantaloupe who?
-
-Cantaloupe to Vegas,
-our parents
-would get mad.
+}
